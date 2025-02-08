@@ -1,0 +1,2 @@
+﻿ALTER TABLE PurchaseItems_Zeljko
+ALTER COLUMN Category NVARCHAR(100) NULL;
